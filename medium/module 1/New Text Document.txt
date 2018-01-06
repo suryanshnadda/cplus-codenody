@@ -1,0 +1,35 @@
+To do 
+type of inheritance
+introduction to all topics
+//*
+
+Single Inheritance
+Multiple Inheritance
+Hierarchical Inheritance
+Multilevel Inheritance
+Hybrid Inheritance (also known as Virtual Inheritance)
+polymorphism details
+
+
+*//
+cout,in
+datatypes
+operators
+for loop
+do while
+if else
+increment decrement
+switch
+while
+pointers
+array
+call by refernce
+call by value
+function
+numbers
+recursion
+class and objects
+constructor and destructor
+inheritance
+static
+this
